@@ -21,7 +21,7 @@
   "main": "index.js",
   "peerDependencies": {
     "hogan.js": "^3.0.2",
-    "webpack": "^1.4.3"
+    "webpack": "^2.0.1-beta"
   },
   "dependencies": {
     "hogan.js": "^3.0.2",
